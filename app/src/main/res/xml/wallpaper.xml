@@ -1,0 +1,4 @@
+<wallpaper xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/wallpaper_description"
+    android:settingsActivity="kr.jh.wallpaper.MainActivity"
+    android:thumbnail="@drawable/app_icon" />
